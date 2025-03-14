@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, My name is Marcus! 👋
 
-<!--
-**MaRcUs1338/MaRcUs1338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🚀 I love cybersecurity and reverse engineering.
+- 💻 I write in C, C#, python.
+- 🌱 learning C.
+- 📫 Contacts: [Telegram](https://t.me/M4rcus1337).
 
-Here are some ideas to get you started:
+## Projects
+- [Cheat Loader](https://github.com/MaRcUs1338/Loader) — loader for cheats.
+- [NAITCTF-2025](https://github.com/fredr0ck/NAITCTF-2025) — Writeups for NAITCTF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaRcUs1338&show_icons=true&theme=radical)
